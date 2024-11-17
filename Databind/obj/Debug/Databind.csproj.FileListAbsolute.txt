@@ -1,0 +1,16 @@
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\bin\Debug\Databind.exe.config
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\bin\Debug\Databind.exe
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\bin\Debug\Databind.pdb
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\Databind.csproj.AssemblyReference.cache
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\MainWindow.g.cs
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\App.g.cs
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\Databind_MarkupCompile.cache
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\Databind_MarkupCompile.lref
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\App.baml
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\MainWindow.baml
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\Databind.g.resources
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\Databind.Properties.Resources.resources
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\Databind.csproj.GenerateResource.cache
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\Databind.csproj.CoreCompileInputs.cache
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\Databind.exe
+C:\Users\Suef Mahamed\source\repos\Databind\Databind\obj\Debug\Databind.pdb

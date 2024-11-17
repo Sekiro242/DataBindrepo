@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|c:\\users\\suef mahamed\\source\\repos\\databind\\databind\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|solutionrelative:databind\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|c:\\users\\suef mahamed\\source\\repos\\databind\\databind\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|solutionrelative:databind\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|c:\\users\\suef mahamed\\source\\repos\\databind\\databind\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|solutionrelative:databind\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\Databind\\App.xaml",
+              "RelativeDocumentMoniker": "Databind\\App.xaml",
+              "ToolTip": "C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\Databind\\App.xaml",
+              "RelativeToolTip": "Databind\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T01:18:49.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\Databind\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Databind\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\Databind\\MainWindow.xaml",
+              "RelativeToolTip": "Databind\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T01:17:43.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\Databind\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Databind\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\Databind\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Databind\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:17:42.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
