@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|solutionrelative:databind\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|c:\\users\\suef mahamed\\source\\repos\\databind\\databind\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\databind\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|solutionrelative:databind\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|c:\\users\\suef mahamed\\source\\repos\\databind\\databind\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\databind\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CE8D5038-DC9E-42D2-9CB6-B2836AEB87CC}|Databind\\Databind.csproj|solutionrelative:databind\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Databind\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Suef Mahamed\\source\\repos\\Databind\\Databind\\MainWindow.xaml.cs",
               "RelativeToolTip": "Databind\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAWwBwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T01:17:42.572Z",
               "EditorCaption": ""
